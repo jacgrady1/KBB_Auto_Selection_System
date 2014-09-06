@@ -1,0 +1,9 @@
+Focus
+Wagon ABC
+  
+Color:red|0,green|0,yellow|0
+Transmission:automatic|0,standard|-515
+Brakes/Traction Control:standard|0,ABS|200,ABS with Advance Trac|1025
+Side Impact Air Bags:none|0,selected|250
+Power Moonroof:    |0,selected|  
+end
